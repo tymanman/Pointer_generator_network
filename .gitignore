@@ -1,2 +1,5 @@
 *.pyc 
 *.bin
+train_*/
+eval_*/
+log*/
